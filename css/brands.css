@@ -634,7 +634,6 @@
 
 /* Codeberg */
 .button-codeberg {
-    --button-text: #ffffff;
-    --button-background: #282a36;
-    --button-border: 1px solid #FFFFFF;
+    --button-text: #241f31;
+    --button-background: #008cff;
 }
